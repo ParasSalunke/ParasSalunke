@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="218" src="https://portfolio-paras-salunke.netlify.app/assets/img/my-profile-img.png"  />
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -9,12 +13,16 @@
 <br/>
 
 <div align="center">
-  <img height="218" src="https://portfolio-paras-salunke.netlify.app/assets/img/my-profile-img.png"  />
-</div>
 
-###
+🎯 Check out my designing channel **[HERE](https://youtube.com/@ParasSalunkeArts)**
+ 
+ 🔭 I’m currently working on a **COLLEGE WEBSITE**
+ 
+ 🌱 I’m currently learning **REACT, BOOTSTRAP & TAILWIND CSS**
 
-<h1 align="center">👨🏼‍💻PARAS SALUNKE👨🏼‍💻</h1>
+⚡ fact **About 35% of small businesses feel their business is too small to have a website**
+
+ </div>
 
 ###
 
@@ -39,75 +47,44 @@
   </a>
 </div>
 
-###
+<hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ParasSalunke.ParasSalunke&"  />
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma logo"  />
 </div>
+<br/>
+<hr/>
 
 ###
 
-<h1 align="center">Hey! Welcome To My Github Profile👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hii I'm Paras Salunke from Pune, Maharashtra<br><br>- 🔭 I’m working as FRONTEND WEB DEVELOPER<br>- 📚 I'm currently learning REACT JS + VITE, NEXT JS, BOOTSTRAP, TAILWIND CSS<br>- 👀 I'm also interested in UI/UX DESIGNING<br>- ⚡ I also do PAINTING, SKETCHING, LOGO DESIGNING<br>- 🎯 Check out my designing channel  youtube.com/@ParasSalunkeArts<br>- 💞️ I’m looking to collaborate on my UPCOMING PROJECTS<br>- ⚡ In my free time I PLAY ONLINE GAMES LIKE GTA5 & BGMI</p>
-
-###
-
-<p align="left">🎯 CHECK OUT MY DESIGNING YOUTUBE CHANNEL ⬇️</p>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@ParasSalunkeArts" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🛠 Languages and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
