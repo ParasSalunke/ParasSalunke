@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="218" src="https://portfolio-paras-salunke.netlify.app/assets/img/my-profile-img.png"  />
-</div>
-
 <img align="right" height="20" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
