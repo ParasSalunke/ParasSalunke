@@ -1,3 +1,13 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paras+Salunke!;" />
+</h1>
+
+<h3 align="center">A Passionate Frontend Developer From India 🇮🇳</h3>
+
+<br/>
+
 <div align="center">
   <img height="218" src="https://portfolio-paras-salunke.netlify.app/assets/img/my-profile-img.png"  />
 </div>
