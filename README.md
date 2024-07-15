@@ -77,20 +77,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ My Stats ⚡</h2>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasSalunke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParasSalunke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParasSalunke&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-<br/><br/>
-
-<hr/>
-<br/>
-
 <div align="center">
 <a href='https://ko-fi.com/parassalunke' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
