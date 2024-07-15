@@ -9,12 +9,10 @@
 <br/>
 
 <div align="center">
-
-🎯 Check out my designing channel **[HERE](https://youtube.com/@ParasSalunkeArts)**
  
  🔭 I’m currently working on a **COLLEGE WEBSITE**
  
- 🌱 I’m currently learning **REACT, BOOTSTRAP & TAILWIND CSS**
+ 🌱 I’m currently learning **MERN**
 
 ⚡ fact **About 35% of small businesses feel their business is too small to have a website**
 
@@ -48,33 +46,23 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="70" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="react logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
 </div>
 <br/>
 <hr/>
