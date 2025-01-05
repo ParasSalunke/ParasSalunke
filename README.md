@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **BANK WEBSITE & FULL STACK LMS SYSTEM**
+ 🔭 I’m currently working on a **FULL STACK LMS SYSTEM**
  
  🌱 I’m currently learning **MERN**
 
