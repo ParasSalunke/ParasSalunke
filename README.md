@@ -54,6 +54,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="70" alt="react logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="nextjs logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
