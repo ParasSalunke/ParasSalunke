@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/Paras__Salunke" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@ParasSalunke" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
