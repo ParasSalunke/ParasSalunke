@@ -1,16 +1,16 @@
 <img align="right" height="20" src="https://visitor-badge.laobi.icu/badge?page_id=ParasSalunke.ParasSalunke&"  />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paras+Salunke!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paras+Salunke!+;+A+Full+Stack+Developer;" />
 </h1>
 
-<h3 align="center">A Passionate Frontend Developer From India 🇮🇳</h3>
+<h3 align="center">A Passionate Full Stack Developer From India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on a **FULL STACK LMS SYSTEM**
+ 🔭 I’m currently working on a **nothing**
  
  🌱 I’m currently learning **MERN**
 
