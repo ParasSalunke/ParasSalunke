@@ -1,24 +1,24 @@
-<img align="right" height="20" src="https://visitor-badge.laobi.icu/badge?page_id=ParasSalunke.ParasSalunke&"  />
+<img align="left" height="20" src="https://visitor-badge.laobi.icu/badge?page_id=ParasSalunke.ParasSalunke&"  />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paras+Salunke!+;+A+Full+Stack+Developer;" />
-</h1>
-
-<h3 align="center">A Passionate Full Stack Developer From India 🇮🇳</h3>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://salunkeparasorg.vercel.app">Paras Salunke</a></b>
+        </samp>
+</h3>
 
 <br/>
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a software developer from <b>India</b> 」
+                <br>
+                「 Focused on creating impactful web applications that improve lives</b> 」
+                <br>
+                <br>
+        </samp>
+</p>
 
-<!-- <div align="center">
- 
- 🔭 I’m currently working on **nothing**
- 
- 🌱 I’m currently learning **MERN**
-
-⚡ fact **About 35% of small businesses feel their business is too small to have a website**
-
- </div> -->
-
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/salunkeparasofficial" target="_blank">
@@ -69,15 +69,27 @@
 <br/>
 <hr/>
 
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> -->
+<!-- Featured Repositories -->
 
-<!-- <hr/> -->
+<!-- <p align="center">
+<a href="https://github.com/ParasSalunke/Deepguard_V2.0">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/Iot-car-controller">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p> -->
 
 <div align="center">
 <a href='https://ko-fi.com/parassalunke' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
