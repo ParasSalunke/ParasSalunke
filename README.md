@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
  
  🔭 I’m currently working on **nothing**
  
@@ -16,7 +16,7 @@
 
 ⚡ fact **About 35% of small businesses feel their business is too small to have a website**
 
- </div>
+ </div> -->
 
 <br clear="both">
 
