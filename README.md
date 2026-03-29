@@ -1,84 +1,25 @@
-<img align="left" height="20" src="https://visitor-badge.laobi.icu/badge?page_id=ParasSalunke.ParasSalunke&" />
+# Hi 👋, I'm Paras Nitin Salunke
 
-<h2 align="center">
-  <samp>&gt; Hey there! I’m <b><a target="_blank" href="https://salunkeparasorg.vercel.app">Paras Salunke</a></b></samp>
-</h2>
+### A passionate WEB Developer
 
-<p align="center">
-  <samp>
-    Software Developer from <b>India</b><br/>
-    Focused on building impactful web applications that improve lives
-  </samp>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ParasSalunke&label=Profile views&color=0e75b6&style=flat" alt="ParasSalunke" /> </p>
+
+- 👨‍💻 All of my projects are available at **[https://salunkeparasorg.vercel.app](https://salunkeparasorg.vercel.app)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ParasSalunke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ParasSalunke" height="30" width="40" /></a>
+<a href="https://instagram.com/paras_salunke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paras_salunke" height="30" width="40" /></a>
+<a href="https://twitter.com/Paras__Salunke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Paras__Salunke" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/salunkeparasofficial" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="LinkedIn" />
-  </a>
-  <a href="mailto:salunkeparasorg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/Paras__Salunke" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="Twitter/X" />
-  </a>
-  <a href="https://www.youtube.com/@ParasSalunke" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/paras_salunke" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fa7e1e&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/ParasSalunkeOfficial" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="Facebook" />
-  </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-<br/>
 
----
 
-### 👨‍💻 About me
-
-- I build modern, responsive web apps with strong UI/UX.
-- I enjoy working on full‑stack products, performance, and clean architecture.
-- Open to collaboration on real-world projects.
-
-### 🎯 Current focus
-
-- Building projects with **Next.js + React**
-- Backend APIs with **Node.js + Express**
-- Databases with **Firebase**
-- Writing maintainable code & improving developer experience
-  
-</br>
-</br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
-</div>
-
-</br>
-
-</br>
-
-<div align="center">
+<!-- <div align="center">
   <a href="https://ko-fi.com/parassalunke" target="_blank">
     <img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee on Ko‑fi" />
   </a>
-</div>
+</div> -->
